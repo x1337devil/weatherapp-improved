@@ -18,7 +18,7 @@ var pressure = document.querySelector('#pressure');
 var icon = document.querySelector('#weather-icon');
 
 //Open weather API key: 
-const apiKey = 'fad039092ee2becd091571814d00688b';
+const apiKey = 'bd1fbea32cf38327b8a70a24a38fc190';
 
 function getWeather(URL) {
     city.innerHTML = "Loading";
